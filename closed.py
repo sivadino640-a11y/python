@@ -1,0 +1,6 @@
+file=open("d1.txt","a")
+print(file.closed)
+file.write("\thi")
+print(file.closed)
+file.close()
+print(file.closed)
