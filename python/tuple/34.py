@@ -1,0 +1,6 @@
+t=tuple()
+l=list(t)
+l.append(6)
+t=tuple(l)
+print(t)
+print(type(t))
