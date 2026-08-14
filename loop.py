@@ -1,6 +1,3 @@
-with open("d1.txt","w+") as file:
-    file.write("\tkarthik")
-    f=file.read()
-    print(f)
-    for line in file:
-        print(line.strip())
+k="java python"
+for char in k:
+    print(char)
