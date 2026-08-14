@@ -1,10 +1,6 @@
-class Hospital:
-    def nurse(self):
-        print("Your are very Beautiful")
-class Specialized:
-    def nurse(self):
-        print("You know")
-h=Hospital()
-s=Specialized()
-h.nurse()
-s.nurse()
+t=(1,2,3,4,5)
+r=[]
+for i in t:
+    i not in r
+    r.append(i)
+    print(i)

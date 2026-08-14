@@ -1,12 +1,4 @@
-class Pdf:
-    def open(self):
-        print("open the pdf")
-class Word:
-    def open(self):
-        print("open the word file")
-def open1(obj):
-    obj.open()
-p=Pdf()
-w=Word()
-open1(p)
-open1(w)
+t1=(1,2,3)
+t2=(4,5)
+concat=t1+t2
+print(concat)

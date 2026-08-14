@@ -1,7 +1,2 @@
-class Message:
-    def name(self,hello,hi):
-    d=name()
-    print("details",d)
-    n=Message()
-    n.name("welcome")
-    n.name("Good Afternoon")
+t=(1,2,3,4,5)
+print(len(t))

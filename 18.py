@@ -1,8 +1,3 @@
-class Student:
-    def display(self):
-        print("Hi")
-class Graduate(Student):
-    def display(self):
-        print("I am a graduate student")
-g=Student()
-g.display()
+t=(3,5,7,9,1)
+for i in t[1::2]:
+  print(i)

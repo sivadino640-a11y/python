@@ -1,8 +1,2 @@
-class Shopping:
-    def prod(self,TV,AC=0,Fridge=0):
-     t=TV+AC+Fridge
-     print(t)
-p=Shopping()
-p.prod(10000)
-p.prod(25000)
-p.prod(15000)
+t=(1,3,5,7,2,6)
+print(t[2])

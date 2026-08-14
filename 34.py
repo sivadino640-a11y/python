@@ -1,4 +1,6 @@
-l=[1,2,3]
+t=tuple()
+l=list(t)
+l.append(6)
 t=tuple(l)
 print(t)
 print(type(t))
